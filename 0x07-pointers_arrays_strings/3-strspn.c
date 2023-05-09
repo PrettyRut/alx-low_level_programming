@@ -25,4 +25,5 @@ return (bytes);
 }
 s++;
 }
+return (bytes);
 }
