@@ -27,7 +27,7 @@ else
 free(*h);
 *h = NULL;
 len++;
-break;		}
+break;
 }
 }
 *h = NULL;
