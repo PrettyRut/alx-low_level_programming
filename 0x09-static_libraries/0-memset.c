@@ -13,7 +13,7 @@ int a = 0;
 for (; n > 0; a++)
 {
 s[a] = b;
-n--
+n--;
 }
 return (s);
 }
